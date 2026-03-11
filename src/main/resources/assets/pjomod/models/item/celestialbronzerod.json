@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "pjomod:item/celestail_bronze_rod"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "item.pjomod.celestialbronzeingot" : "Celestial Bronze Ingot",
+  "item.pjomod.celestialbronzerod" : "Celestial Bronze Rod",
+  "item.pjomod.rawcelestialbronze" : "Raw Celestial Bronze",
+
+
+
+  "block.pjomod.celestial_bronze_block" : "Celestial Bronze Block",
+  "block.pjomod.celestial_bronze_ore" : "Celestial Bronze Ore",
+  "creativetab.pjomod.pjo_items": "",
+  "creativetab.pjomod.pjo_blocks": ""
+}
